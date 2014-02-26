@@ -1,0 +1,23 @@
+{
+  "name": "resolve-repository",
+  "description": "Codebase for automated resolving.",
+  "version": "0.0.1-alpha",
+  "homepage": "https://github.com/mr-moon/resolve-repository",
+  "author": {
+    "name": "Alexander Moon",
+    "url": "https://github.com/mr-moon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mr-moon/resolve-repository.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mr-moon/resolve-repository/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/mr-moon/resolve-repository/blob/master/LICENSE-MIT"
+    }
+  ]
+}
