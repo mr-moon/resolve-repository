@@ -1,3 +1,3 @@
 js.types.isArray = function(input) {
-  return js.type.type(input) === 'array';
+  return js.types.type(input) === 'array';
 }
